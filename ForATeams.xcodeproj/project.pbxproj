@@ -18,8 +18,6 @@
 		1EFAE7031F94F99700BD54F7 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 1EFAE7011F94F99700BD54F7 /* Main.storyboard */; };
 		1EFAE7051F94F99700BD54F7 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 1EFAE7041F94F99700BD54F7 /* Assets.xcassets */; };
 		1EFAE7081F94F99700BD54F7 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 1EFAE7061F94F99700BD54F7 /* LaunchScreen.storyboard */; };
-		1EFAE7131F94F99700BD54F7 /* ForATeamsTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1EFAE7121F94F99700BD54F7 /* ForATeamsTests.swift */; };
-		1EFAE71E1F94F99700BD54F7 /* ForATeamsUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1EFAE71D1F94F99700BD54F7 /* ForATeamsUITests.swift */; };
 		1EFAE73A1F966D8800BD54F7 /* FirstViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1EFAE7391F966D8800BD54F7 /* FirstViewController.swift */; };
 		1EFAE73C1F96702B00BD54F7 /* PostsCell.xib in Resources */ = {isa = PBXBuildFile; fileRef = 1EFAE73B1F96702B00BD54F7 /* PostsCell.xib */; };
 		1EFAE73E1F9670D800BD54F7 /* CommentsCell.xib in Resources */ = {isa = PBXBuildFile; fileRef = 1EFAE73D1F9670D800BD54F7 /* CommentsCell.xib */; };
@@ -53,19 +51,15 @@
 		1E63AD991F9702B8003C9E1F /* UsersRow.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UsersRow.swift; sourceTree = "<group>"; };
 		1EB2C5971F98E1FE002E9108 /* TodosCell.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = TodosCell.xib; sourceTree = "<group>"; };
 		1EB2C5991F98E37E002E9108 /* TodosCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TodosCell.swift; sourceTree = "<group>"; };
-		1EFAE6F81F94F99700BD54F7 /* ForATeams.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = ForATeams.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		1EFAE6F81F94F99700BD54F7 /* ForATeams.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; name = ForATeams.app; path = "/Users/exalter/Documents/GitHub/RestApiTest/build/Debug-iphoneos/ForATeams.app"; sourceTree = "<absolute>"; };
 		1EFAE6FB1F94F99700BD54F7 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		1EFAE6FF1F94F99700BD54F7 /* SecondViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SecondViewController.swift; sourceTree = "<group>"; };
 		1EFAE7021F94F99700BD54F7 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		1EFAE7041F94F99700BD54F7 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		1EFAE7071F94F99700BD54F7 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		1EFAE7091F94F99700BD54F7 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		1EFAE70E1F94F99700BD54F7 /* ForATeamsTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = ForATeamsTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
-		1EFAE7121F94F99700BD54F7 /* ForATeamsTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ForATeamsTests.swift; sourceTree = "<group>"; };
-		1EFAE7141F94F99700BD54F7 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		1EFAE7191F94F99700BD54F7 /* ForATeamsUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = ForATeamsUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
-		1EFAE71D1F94F99700BD54F7 /* ForATeamsUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ForATeamsUITests.swift; sourceTree = "<group>"; };
-		1EFAE71F1F94F99700BD54F7 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		1EFAE70E1F94F99700BD54F7 /* ForATeamsTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; name = ForATeamsTests.xctest; path = "/Users/exalter/Documents/GitHub/RestApiTest/build/Debug-iphoneos/ForATeamsTests.xctest"; sourceTree = "<absolute>"; };
+		1EFAE7191F94F99700BD54F7 /* ForATeamsUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; name = ForATeamsUITests.xctest; path = "/Users/exalter/Documents/GitHub/RestApiTest/build/Debug-iphoneos/ForATeamsUITests.xctest"; sourceTree = "<absolute>"; };
 		1EFAE7391F966D8800BD54F7 /* FirstViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FirstViewController.swift; sourceTree = "<group>"; };
 		1EFAE73B1F96702B00BD54F7 /* PostsCell.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = PostsCell.xib; sourceTree = "<group>"; };
 		1EFAE73D1F9670D800BD54F7 /* CommentsCell.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = CommentsCell.xib; sourceTree = "<group>"; };
@@ -104,20 +98,7 @@
 			isa = PBXGroup;
 			children = (
 				1EFAE6FA1F94F99700BD54F7 /* ForATeams */,
-				1EFAE7111F94F99700BD54F7 /* ForATeamsTests */,
-				1EFAE71C1F94F99700BD54F7 /* ForATeamsUITests */,
-				1EFAE6F91F94F99700BD54F7 /* Products */,
 			);
-			sourceTree = "<group>";
-		};
-		1EFAE6F91F94F99700BD54F7 /* Products */ = {
-			isa = PBXGroup;
-			children = (
-				1EFAE6F81F94F99700BD54F7 /* ForATeams.app */,
-				1EFAE70E1F94F99700BD54F7 /* ForATeamsTests.xctest */,
-				1EFAE7191F94F99700BD54F7 /* ForATeamsUITests.xctest */,
-			);
-			name = Products;
 			sourceTree = "<group>";
 		};
 		1EFAE6FA1F94F99700BD54F7 /* ForATeams */ = {
@@ -141,24 +122,6 @@
 				1EFAE72E1F96465800BD54F7 /* Xibs */,
 			);
 			path = ForATeams;
-			sourceTree = "<group>";
-		};
-		1EFAE7111F94F99700BD54F7 /* ForATeamsTests */ = {
-			isa = PBXGroup;
-			children = (
-				1EFAE7121F94F99700BD54F7 /* ForATeamsTests.swift */,
-				1EFAE7141F94F99700BD54F7 /* Info.plist */,
-			);
-			path = ForATeamsTests;
-			sourceTree = "<group>";
-		};
-		1EFAE71C1F94F99700BD54F7 /* ForATeamsUITests */ = {
-			isa = PBXGroup;
-			children = (
-				1EFAE71D1F94F99700BD54F7 /* ForATeamsUITests.swift */,
-				1EFAE71F1F94F99700BD54F7 /* Info.plist */,
-			);
-			path = ForATeamsUITests;
 			sourceTree = "<group>";
 		};
 		1EFAE72E1F96465800BD54F7 /* Xibs */ = {
@@ -263,7 +226,7 @@
 				Base,
 			);
 			mainGroup = 1EFAE6EF1F94F99700BD54F7;
-			productRefGroup = 1EFAE6F91F94F99700BD54F7 /* Products */;
+			productRefGroup = 1EFAE6EF1F94F99700BD54F7;
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
@@ -328,7 +291,6 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				1EFAE7131F94F99700BD54F7 /* ForATeamsTests.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -336,7 +298,6 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				1EFAE71E1F94F99700BD54F7 /* ForATeamsUITests.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
